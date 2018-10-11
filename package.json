@@ -1,0 +1,11 @@
+{
+  "name": "prefix_search",
+  "version": "1.0.0",
+  "description": "Tree Prefix Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "oomilekh",
+  "license": "ISC"
+}
